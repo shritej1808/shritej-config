@@ -1,0 +1,12 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Tim - Product Owner"
+    email: "Tim123@gmail.com"
+  onCallSupport:
+    - 6464968741

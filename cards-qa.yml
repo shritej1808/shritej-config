@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profiles: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "David - QA Lead"
+    email: "david123@gmail.com"
+  onCallSupport:
+    - 999999999

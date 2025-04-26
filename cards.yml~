@@ -1,0 +1,12 @@
+
+  build:
+    version: "3.0"
+
+
+  cards:
+    message: "Welcome to EazyBank accounts related local APIs"
+    contactDetails:
+      name: "Shritej - Developer"
+      email: "shritejkv@gmail.com"
+    onCallSupport:
+      - 6366270523
