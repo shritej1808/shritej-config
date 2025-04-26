@@ -7,6 +7,6 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
     name: "{cipher}ed4176c0426d0d9d32cf3ad0d5fb45fa73a5e84c27af947eeb5f68507d004a00"
-    email: "{ciper}a1673c842e3664feca3082c044f7cdebf66813c02d050de828476eba202afb943e5f6281ef17d2610fc701a01575bc27"
+    email: "{ciper}6fcbf28da24a0ff636b6a193f0d3cc983ae70ea963b01e90db72cbda4ed14dccb62f8417a7bd94d495cd9c4c0da62873"
   onCallSupport:
     - 999999999
