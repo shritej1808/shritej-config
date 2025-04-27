@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
-    name: "David - QA Lead"
-    email: "david123@gmail.com"
+    name: "{cipher}341355307a625bfe6127c48854d8ebda075341cce2c0028b20cd977b5d50a8ee"
+    email: "{cipher}cb8eb533a6d05613fe0a0e737d63f9983ca1d658bfcd8b99260b3380c6cbee7ffc8ee6ccae913583153d495385c10f39"
   onCallSupport:
     - 999999990
