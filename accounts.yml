@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
-    name: "Shritej"
+    name: "Shritej developer"
     email: "shritejkv@gmail.com"
   onCallSupport:
     - 6366270523
